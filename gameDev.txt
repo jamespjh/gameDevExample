@@ -8,3 +8,5 @@ Unity ScritableObject class
 Unity MonoBehaviour class
 
 Blender setup
+
+Maya files
