@@ -10,3 +10,5 @@ Unity MonoBehaviour class
 Blender setup
 
 Maya files
+
+Unity Update and Start functions
