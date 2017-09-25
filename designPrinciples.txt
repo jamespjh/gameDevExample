@@ -2,4 +2,6 @@ This is a file about design principles:
 
 =======================================
 
+* Game elements should be introduced gradually, not all at once.
+
 See Extra Credits.
